@@ -1,2 +1,17 @@
-# EstudoCapacitaC2025
-Este repositório reúne os exercícios práticos desenvolvidos durante minha participação no programa Capacita C Jovem, focado em introdução à programação com Python.  O objetivo é consolidar o aprendizado de lógica de programação, estruturas de controle, variáveis, funções, listas, dicionários e outros fundamentos essenciais da linguagem Python.
+# 🐍 Exercícios de Python – Capacita C Jovem
+
+Este repositório contém os exercícios que desenvolvi durante o curso **Capacita C Jovem**, utilizando a linguagem **Python**.
+
+## 📂 Organização
+
+- Variáveis e entrada de dados  
+- Condicionais (if/else)  
+- Laços de repetição (for/while)  
+- Listas  
+- Funções  
+- Exercícios extras
+
+## 🧠 Objetivo
+
+Praticar lógica de programação e construir uma base sólida em Python.
+
